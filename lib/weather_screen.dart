@@ -63,7 +63,7 @@ class WeatherScreen extends StatelessWidget {
                       ),
                     )),
               ),
-              const SizedBox(height: 20),
+              const SizedBox(height: 50),
 //weather forecast card
               const Text(
                 'Weather Forecast',
@@ -86,7 +86,7 @@ class WeatherScreen extends StatelessWidget {
                 ),
               ),
 
-              const SizedBox(height: 20),
+              const SizedBox(height: 50),
 
               //additional info
 
@@ -98,7 +98,7 @@ class WeatherScreen extends StatelessWidget {
                 ),
               ),
 
-              const SizedBox(height: 10),
+              const SizedBox(height: 12),
 
               const Row(
                   mainAxisAlignment: MainAxisAlignment.spaceAround,
